@@ -1,0 +1,6 @@
+Geo is Sphere with a Geodisic at one of
+the quadtree levels. Geach quadtree 
+level is written out as Sphere0.dat (The
+initial ocahedron), Sphere1.dat, the first 
+subdivision and So on. These have been
+moved to the Sphere2 directory.
